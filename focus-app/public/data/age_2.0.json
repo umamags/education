@@ -1,0 +1,149 @@
+{
+  "age": 2,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Begins to sort shapes and colors",
+        "Completes simple puzzles",
+        "Engages in imaginative play"
+      ],
+      "activities": [
+        "Provide shape sorters and color matching games",
+        "Encourage puzzle playtime",
+        "Create role-playing scenarios with toys"
+      ],
+      "watchFor": [
+        "Difficulty solving simple problems",
+        "Inability to engage in play scenarios",
+        "Limited interest in exploring new toys"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Uses two-word phrases",
+        "Follows simple directions",
+        "Has a vocabulary of 50-100 words"
+      ],
+      "activities": [
+        "Read simple picture books together",
+        "Encourage dialogue during play",
+        "Sing songs with repetitive phrases"
+      ],
+      "watchFor": [
+        "Limited speech development",
+        "Struggles to follow directions",
+        "Lack of interest in communicating"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Runs and climbs with confidence",
+        "Kicks a ball",
+        "Stacks blocks"
+      ],
+      "activities": [
+        "Set up an obstacle course",
+        "Play outdoor ball games",
+        "Provide building blocks for stacking"
+      ],
+      "watchFor": [
+        "Clumsiness during basic movements",
+        "Inability to climb or run",
+        "Avoidance of physical activities"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Plays alongside other children",
+        "Begins to show interest in peer interactions",
+        "Can share toys with prompts"
+      ],
+      "activities": [
+        "Arrange playdates with peers",
+        "Engage in group activities",
+        "Model sharing behaviors during play"
+      ],
+      "watchFor": [
+        "Difficulty engaging with other children",
+        "Excessive aggression or withdrawal",
+        "Lack of empathy towards others"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Shows a range of emotions",
+        "Begins to understand feelings of others",
+        "Expresses frustration or joy"
+      ],
+      "activities": [
+        "Label feelings in everyday situations",
+        "Create art to express emotions",
+        "Read stories about emotions"
+      ],
+      "watchFor": [
+        "Frequent tantrums without apparent reason",
+        "Limited expressions of happiness or sadness",
+        "Struggles with emotional regulation"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Asks 'why' questions",
+        "Explores the environment actively",
+        "Investigates how things work"
+      ],
+      "activities": [
+        "Encourage exploration in nature",
+        "Conduct simple science experiments",
+        "Provide hands-on activities like water play"
+      ],
+      "watchFor": [
+        "Disinterest in exploration",
+        "Lack of questions about the world",
+        "Avoiding new experiences or activities"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Shows interest in new topics",
+        "Can focus on an activity for short periods",
+        "Imitates actions of adults and peers"
+      ],
+      "activities": [
+        "Engage in themed educational activities",
+        "Read interactive books",
+        "Perform simple crafts together"
+      ],
+      "watchFor": [
+        "Short attention span during age-appropriate activities",
+        "Disinterest in learning or new information",
+        "Inability to imitate simple actions"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Begins to dress and undress with help",
+        "Feeds themselves with a spoon",
+        "Shows interest in helping with tasks"
+      ],
+      "activities": [
+        "Encourage self-feeding at mealtimes",
+        "Provide dressing practice with simple clothing",
+        "Assign simple chores like putting away toys"
+      ],
+      "watchFor": [
+        "Reluctance to attempt self-care tasks",
+        "Overdependence on adults for basic tasks",
+        "Resistance to engaging in responsibilities"
+      ]
+    }
+  ]
+}

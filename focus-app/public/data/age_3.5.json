@@ -1,0 +1,149 @@
+{
+  "age": 3.5,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Can solve simple problems like puzzles",
+        "Can classify objects by color and shape",
+        "Can follow two- to three-step instructions"
+      ],
+      "activities": [
+        "Play simple board games that involve counting",
+        "Engage in story-telling with open-ended questions",
+        "Encourage sorting games with toys or household items"
+      ],
+      "watchFor": [
+        "Difficulty focusing on tasks",
+        "Struggles with problem-solving",
+        "Limited engagement in pretend play"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Has a vocabulary of around 1,000 words",
+        "Can form sentences of four or more words",
+        "Can sing simple songs or recite nursery rhymes"
+      ],
+      "activities": [
+        "Read interactive books with questions",
+        "Play rhyming games",
+        "Encourage conversation during daily activities"
+      ],
+      "watchFor": [
+        "Limited vocabulary growth",
+        "Difficulty pronouncing common words",
+        "Struggles to be understood by familiar adults"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Can jump forward and backward",
+        "Can throw and catch a ball with increasing accuracy",
+        "Can balance on one foot for a few seconds"
+      ],
+      "activities": [
+        "Set up an obstacle course for gross motor skills",
+        "Engage in activities like dancing or jumping games",
+        "Provide arts and crafts that require cutting, gluing, and coloring"
+      ],
+      "watchFor": [
+        "Clumsiness or frequent falling",
+        "Avoidance of physical activities",
+        "Limited fine motor skills like drawing or writing"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Can take turns and share with others",
+        "Shows interest in playing with peers",
+        "Can express emotions verbally"
+      ],
+      "activities": [
+        "Organize playdates or group activities",
+        "Role-play different social scenarios",
+        "Encourage cooperative games like building together"
+      ],
+      "watchFor": [
+        "Avoidance of peer interactions",
+        "Difficulty sharing or taking turns",
+        "Frequent aggression or tantrums during play"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Can identify and label their own feelings",
+        "Shows empathy towards others",
+        "Can express likes and dislikes verbally"
+      ],
+      "activities": [
+        "Use feeling charts to recognize and discuss emotions",
+        "Encourage storytelling that involves feelings",
+        "Provide scenarios to practice emotion regulation"
+      ],
+      "watchFor": [
+        "Difficulty identifying or expressing emotions",
+        "Frequent emotional outbursts",
+        "Struggles to cope with change or transitions"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Asks 'why' and 'how' questions frequently",
+        "Shows interest in exploring new environments",
+        "Enjoys simple experiments to see outcomes"
+      ],
+      "activities": [
+        "Plan trips to nature walks or museums",
+        "Set up science experiments like planting seeds",
+        "Encourage creative exploration through arts and crafts"
+      ],
+      "watchFor": [
+        "Lack of interest in exploring surroundings",
+        "Limited questioning behavior",
+        "Avoidance of new experiences"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Can focus on tasks for up to 15 minutes",
+        "Shows persistence in completing tasks",
+        "Begins to understand cause and effect"
+      ],
+      "activities": [
+        "Play memory games to enhance attention",
+        "Engage in building activities like blocks or Lego",
+        "Introduce simple chores that require focus"
+      ],
+      "watchFor": [
+        "Easily distracted or unable to maintain interest",
+        "Avoids challenging tasks",
+        "Gives up quickly when faced with problems"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Can dress and undress with minimal help",
+        "Can express preferences and make simple choices",
+        "Can manage basic hygiene tasks with supervision"
+      ],
+      "activities": [
+        "Encourage self-dressing by providing choices in clothing",
+        "Assign simple chores like setting the table",
+        "Allow them to choose their snacks or meals"
+      ],
+      "watchFor": [
+        "Dependence on caregivers for routine tasks",
+        "Avoidance of responsibilities",
+        "Struggles with making choices or decisions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "age": 7.5,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Can solve simple puzzles and problems",
+        "Understands the concept of time and can tell time",
+        "Begins to think logically about concrete events"
+      ],
+      "activities": [
+        "Play board games that require strategy",
+        "Engage in simple science experiments",
+        "Encourage storytelling to enhance problem-solving"
+      ],
+      "watchFor": [
+        "Difficulty in following directions",
+        "Struggles with problem-solving tasks",
+        "Avoiding tasks that require thinking"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Can read simple books independently",
+        "Uses complex sentences and varied vocabulary",
+        "Engages in conversations and can express thoughts clearly"
+      ],
+      "activities": [
+        "Read together daily and discuss the story",
+        "Encourage writing short stories or journal entries",
+        "Play word games like Scrabble or Boggle"
+      ],
+      "watchFor": [
+        "Limited vocabulary compared to peers",
+        "Difficulty articulating thoughts",
+        "Avoids speaking in group settings"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Rides a bicycle with confidence",
+        "Can catch and throw a ball effectively",
+        "Shows improved hand-eye coordination"
+      ],
+      "activities": [
+        "Join a sports team or group activity",
+        "Practice activities like jumping rope or dancing",
+        "Engage in arts and crafts that require fine motor skills"
+      ],
+      "watchFor": [
+        "Frequent clumsiness",
+        "Inability to engage in age-appropriate physical activities",
+        "Fatigue or frustration during physical play"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Enjoys playing with peers and forming friendships",
+        "Understands the concept of sharing and cooperation",
+        "Can empathize with feelings of others"
+      ],
+      "activities": [
+        "Organize playdates or group games",
+        "Encourage team sports",
+        "Engage in role-playing games to enhance social skills"
+      ],
+      "watchFor": [
+        "Struggles to make friends",
+        "Shows aggressive behavior during play",
+        "Difficulty understanding others' feelings"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Begins to understand and express their own emotions",
+        "Shows empathy and can comfort peers",
+        "Develops coping strategies for frustrations"
+      ],
+      "activities": [
+        "Practice emotion identification through games",
+        "Encourage sharing feelings during family discussions",
+        "Provide opportunities for role-playing complex emotional situations"
+      ],
+      "watchFor": [
+        "Frequent emotional outbursts",
+        "Struggles to self-regulate emotions",
+        "Difficulty coping with disappointment"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Asks a variety of questions about their environment",
+        "Shows interest in how things work",
+        "Enjoys exploring new ideas and concepts"
+      ],
+      "activities": [
+        "Visit museums or science centers",
+        "Encourage outdoor exploration and nature walks",
+        "Provide kits for building or experimenting at home"
+      ],
+      "watchFor": [
+        "Lack of interest in learning new things",
+        "Avoidance of exploring new situations",
+        "Disinterest in asking questions"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Can focus on tasks for longer periods",
+        "Uses strategies to remember information",
+        "Shows persistence in completing projects"
+      ],
+      "activities": [
+        "Set up a daily routine to encourage focus",
+        "Introduce problem-solving games that require persistence",
+        "Encourage participation in learning clubs or groups"
+      ],
+      "watchFor": [
+        "Easily distracted during tasks",
+        "Gives up quickly when faced with challenges",
+        "Resists participation in learning activities"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Can complete basic self-care tasks independently",
+        "Takes responsibility for personal belongings",
+        "Makes simple decisions"
+      ],
+      "activities": [
+        "Assign age-appropriate chores",
+        "Encourage dressing and grooming independently",
+        "Involve them in family decision-making processes"
+      ],
+      "watchFor": [
+        "Over-reliance on adults for basic tasks",
+        "Lack of initiative in personal responsibilities",
+        "Avoidance of making choices"
+      ]
+    }
+  ]
+}

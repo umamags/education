@@ -1,0 +1,18 @@
+{
+  "name": "child-development-tracker",
+  "version": "1.0.0",
+  "description": "Child development tracking tool",
+  "type": "module",
+  "main": "src/getChildDevelopment.js",
+  "scripts": {
+    "sync-data": "node src/sync-data.js",
+    "dev": "npm run sync-data && cd focus-app && npm run dev",
+    "build": "npm run sync-data && cd focus-app && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.28.0"
+  }
+}

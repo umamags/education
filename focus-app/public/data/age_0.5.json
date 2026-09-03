@@ -1,0 +1,149 @@
+{
+  "age": 0.5,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Recognizes familiar faces and objects",
+        "Begins to understand cause and effect",
+        "Explores objects by banging or shaking them"
+      ],
+      "activities": [
+        "Provide toys that make noise when shaken",
+        "Play peek-a-boo to enhance understanding of object permanence",
+        "Encourage problem-solving by presenting simple puzzles"
+      ],
+      "watchFor": [
+        "Lacks interest in toys or activities",
+        "Does not respond to familiar voices",
+        "Does not explore objects"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Babbling or cooing frequently",
+        "Responds to own name",
+        "Begins to make sounds to express needs"
+      ],
+      "activities": [
+        "Read aloud daily",
+        "Sing simple songs and nursery rhymes",
+        "Encourage imitation of sounds"
+      ],
+      "watchFor": [
+        "Does not attempt to speak or produce sounds",
+        "Lack of response to verbal communication",
+        "Unusual sounds that do not resemble typical babbling"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Rolls over in both directions",
+        "Begins to sit without support",
+        "Reaches for and grasps objects"
+      ],
+      "activities": [
+        "Tummy time to strengthen neck and shoulder muscles",
+        "Offer toys that are easy to grasp",
+        "Encourage sitting by propping with pillows"
+      ],
+      "watchFor": [
+        "Does not roll over by 6 months",
+        "Weak arm or leg movements",
+        "Lack of progression in reaching and grasping"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Smiles at people",
+        "Engages in social play with familiar caregivers",
+        "Shows a preference for certain people and toys"
+      ],
+      "activities": [
+        "Encourage playdates with other infants",
+        "Introduce games that involve turn-taking",
+        "Facilitate interactions with caregivers"
+      ],
+      "watchFor": [
+        "Does not smile at people",
+        "Shows no interest in social interactions",
+        "Frightened by new people or situations"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Shows mood changes (happy, sad)",
+        "Begins to express frustration or displeasure",
+        "Self-soothes by sucking on hands or fingers"
+      ],
+      "activities": [
+        "Provide a secure and loving environment",
+        "Respond consistently to cries or needs",
+        "Introduce comfort items like a soft toy"
+      ],
+      "watchFor": [
+        "Excessive crying without a clear cause",
+        "Lack of emotional expression",
+        "Difficulty being comforted by caregivers"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Shows interest in surroundings",
+        "Explores objects using mouth and hands",
+        "Begins to anticipate outcomes of simple actions"
+      ],
+      "activities": [
+        "Create a safe exploration area with various textures",
+        "Introduce toys that encourage exploration like stacking toys",
+        "Encourage looking for hidden toys"
+      ],
+      "watchFor": [
+        "Disinterest in new experiences",
+        "Avoids exploring surroundings",
+        "Limited interaction with toys or objects"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Shows longer attention spans for activities",
+        "Recognizes familiar routines",
+        "Begins to anticipate what comes next in a sequence"
+      ],
+      "activities": [
+        "Establish daily routines and rituals",
+        "Introduce simple cause-effect toys",
+        "Play games that involve repetition"
+      ],
+      "watchFor": [
+        "Frequent distraction with inability to focus",
+        "Unfamiliarity with routine changes",
+        "Resistance to engaging in simple activities"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Attempts to feed self with fingers",
+        "Begins to show preferences for certain toys or foods",
+        "Responds to simple cues or requests"
+      ],
+      "activities": [
+        "Allow opportunities for self-feeding with safe finger foods",
+        "Encourage participation in simple choices (e.g., toy selections)",
+        "Provide toys that promote self-play"
+      ],
+      "watchFor": [
+        "Avoidance of self-feeding",
+        "Lack of interest in trying new things",
+        "Difficulty making choices or responding to simple cues"
+      ]
+    }
+  ]
+}

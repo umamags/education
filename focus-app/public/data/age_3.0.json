@@ -1,0 +1,149 @@
+{
+  "age": 3,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Identifies shapes and colors",
+        "Completes simple puzzles",
+        "Follows two- or three-step directions"
+      ],
+      "activities": [
+        "Play with building blocks",
+        "Engage in simple board games",
+        "Use flashcards for shapes and colors"
+      ],
+      "watchFor": [
+        "Struggles with understanding simple instructions",
+        "Shows little interest in problem-solving activities",
+        "Doesn't recognize familiar colors or shapes"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Uses sentences of 3-4 words",
+        "Can name most objects in a picture book",
+        "Understands basic concepts (big/small, fast/slow)"
+      ],
+      "activities": [
+        "Read daily and encourage storytelling",
+        "Play rhyming games",
+        "Sing songs that involve actions"
+      ],
+      "watchFor": [
+        "Limited vocabulary for their age",
+        "Struggles to express needs or feelings",
+        "Doesn't respond to questions or directions"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Kicks a ball forward",
+        "Climbs well and can run",
+        "Learn to hop on one foot"
+      ],
+      "activities": [
+        "Create an obstacle course",
+        "Encourage dancing or movement games",
+        "Provide crayons and playdough for fine motor skills"
+      ],
+      "watchFor": [
+        "Difficulty with physical activities typical for their age",
+        "Avoids running or playing with peers",
+        "Shows reluctance to use utensils during meals"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Begins to share toys",
+        "Engages in parallel play with peers",
+        "Shows a range of emotions towards others"
+      ],
+      "activities": [
+        "Arrange playdates with other children",
+        "Participate in group games",
+        "Encourage role-playing with dolls or action figures"
+      ],
+      "watchFor": [
+        "Exhibits aggressive behaviors towards others",
+        "Struggles to play with other children",
+        "Shows little interest in making friends"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Expresses a variety of emotions",
+        "Begins to show empathy (e.g., comforting a crying friend)",
+        "Can express frustration verbally"
+      ],
+      "activities": [
+        "Read books about feelings",
+        "Discuss emotions during daily activities",
+        "Play emotion charades"
+      ],
+      "watchFor": [
+        "Frequent mood swings or emotional outbursts",
+        "Lack of interest in social interactions",
+        "Difficulty calming down after strong emotions"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Asks 'why' questions",
+        "Enjoys exploring new environments",
+        "Shows interest in nature and animals"
+      ],
+      "activities": [
+        "Visit a zoo or nature center",
+        "Encourage backyard exploration",
+        "Conduct simple science experiments"
+      ],
+      "watchFor": [
+        "Displays little interest in asking questions",
+        "Avoids exploring new places",
+        "Seem less engaged with hands-on activities"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Can focus on an activity for a few minutes",
+        "Imitates adults in task completion",
+        "Remembers and recounts simple stories"
+      ],
+      "activities": [
+        "Have short reading sessions with interactive books",
+        "Create simple art projects",
+        "Practice sorting objects by size or color"
+      ],
+      "watchFor": [
+        "Inability to remain focused on tasks",
+        "Shows disinterest in learning games",
+        "Struggles to follow simple routines"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Can dress and undress with assistance",
+        "Follows simple household routines",
+        "Begins to handle some self-care tasks"
+      ],
+      "activities": [
+        "Encourage dressing themselves",
+        "Assign simple chores like putting away toys",
+        "Teach basic hygiene practices like washing hands"
+      ],
+      "watchFor": [
+        "Reluctance to try self-care tasks",
+        "Avoids following simple routines",
+        "Struggles significantly with independence tasks compared to peers"
+      ]
+    }
+  ]
+}

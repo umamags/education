@@ -1,0 +1,149 @@
+{
+  "age": 1.5,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Begins to sort shapes and colors",
+        "Can follow simple instructions",
+        "Shows interest in how things work"
+      ],
+      "activities": [
+        "Playing with shape sorters",
+        "Engaging with stacking toys",
+        "Exploring cause and effect with simple toys"
+      ],
+      "watchFor": [
+        "Shows frustration when faced with problems",
+        "Does not engage in play activities",
+        "Lacks interest in exploring surroundings"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Uses 10-20 words",
+        "Begins to combine two words",
+        "Follows simple verbal commands"
+      ],
+      "activities": [
+        "Reading simple picture books together",
+        "Singing songs and nursery rhymes",
+        "Encouraging imitative words and songs"
+      ],
+      "watchFor": [
+        "Limited verbal communication",
+        "Does not imitate sounds or words",
+        "Shows no interest in listening to books or stories"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Walks independently",
+        "Begins to run",
+        "Can kick a ball"
+      ],
+      "activities": [
+        "Encouraging outdoor play like running and kicking",
+        "Providing age-appropriate climbing toys",
+        "Participating in simple dance or movement activities"
+      ],
+      "watchFor": [
+        "Difficulty with walking or running",
+        "Avoidance of physical play",
+        "Shows little interest in physical activities"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Shows interest in other children",
+        "Begins to engage in parallel play",
+        "Can imitate simple actions of others"
+      ],
+      "activities": [
+        "Playing with peers in community or playgroups",
+        "Providing opportunities for group play",
+        "Encouraging turn-taking during play"
+      ],
+      "watchFor": [
+        "Exhibits aggressive behavior towards others",
+        "Shows lack of interest in playing with peers",
+        "Exhibits extreme shyness or withdrawal in social settings"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Expresses a range of emotions",
+        "Shows affection to caregivers",
+        "Begins to understand feelings of others"
+      ],
+      "activities": [
+        "Using puppets to express different feelings",
+        "Reading stories about emotions",
+        "Modeling emotional expression through art"
+      ],
+      "watchFor": [
+        "Excessive tantrums or emotional outbursts",
+        "Difficulty calming down",
+        "Shows lack of attachment or response to caregivers"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Explores new environments",
+        "Shows interest in how objects work",
+        "Asks simple questions (e.g., 'What?')"
+      ],
+      "activities": [
+        "Providing safe spaces for exploration",
+        "Offering hands-on activities like water play",
+        "Encouraging exploration in nature"
+      ],
+      "watchFor": [
+        "Reluctance to explore new things",
+        "Lack of interest in new experiences",
+        "Avoids engaging with novel objects"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Can focus on an activity for a few minutes",
+        "Begins to show interest in books",
+        "Imitates actions after seeing them"
+      ],
+      "activities": [
+        "Using puzzles and games that require focus",
+        "Reading books daily",
+        "Playing imitation games"
+      ],
+      "watchFor": [
+        "Shows little attention to tasks",
+        "Struggles to engage in favorite activities",
+        "Easily distracted and unable to complete short tasks"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Begins to help with dressing",
+        "Feeds self with fingers or a spoon",
+        "Shows interest in simple tasks"
+      ],
+      "activities": [
+        "Encouraging self-feeding with finger foods",
+        "Providing simple clothing items to practice dressing",
+        "Involving child in small chores"
+      ],
+      "watchFor": [
+        "Refuses to try new self-care tasks",
+        "Shows no interest in independent play or activities",
+        "Expresses anxiety when separating from parents"
+      ]
+    }
+  ]
+}

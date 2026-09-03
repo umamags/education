@@ -1,0 +1,149 @@
+{
+  "age": 1,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Begins to understand cause and effect",
+        "Can solve simple problems, like pulling a toy out of a container",
+        "Recognizes familiar objects and people"
+      ],
+      "activities": [
+        "Play with stacking blocks",
+        "Engage in simple shape sorting toys",
+        "Hide and seek with objects"
+      ],
+      "watchFor": [
+        "Difficulty recognizing familiar people",
+        "Limited ability to explore new toys",
+        "Lack of interest in problem-solving"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Can say a few words like 'mama' or 'dada'",
+        "Understands simple commands",
+        "Responds to their name"
+      ],
+      "activities": [
+        "Read picture books together",
+        "Sing simple songs",
+        "Engage in repetitive conversations"
+      ],
+      "watchFor": [
+        "Not attempting to communicate",
+        "Limited vocabulary for their age",
+        "Not responding to simple instructions"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Starts to stand without support",
+        "Can walk while holding onto furniture",
+        "Picks up small objects with thumb and finger"
+      ],
+      "activities": [
+        "Provide push toys for walking support",
+        "Create a safe space for crawling and climbing",
+        "Encourage throwing and kicking soft balls"
+      ],
+      "watchFor": [
+        "Not attempting to stand or walk",
+        "Difficulty grasping objects",
+        "Lack of interest in physical activity"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Shows interest in being around other children",
+        "Begins to express emotions like joy and frustration",
+        "Imitates simple actions of adults and older children"
+      ],
+      "activities": [
+        "Organize simple playdates",
+        "Encourage shared activities like building blocks",
+        "Introduce interactive games like peek-a-boo"
+      ],
+      "watchFor": [
+        "Avoidance of social interaction",
+        "Limited emotional responses",
+        "Difficulty engaging in play with peers"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Expresses a range of emotions including happiness, anger, and sadness",
+        "Begins to show attachment to familiar caregivers",
+        "Can be comforted by familiar individuals"
+      ],
+      "activities": [
+        "Create a comforting routine",
+        "Introduce soft toys for emotional expression",
+        "Encourage mirroring emotions through play"
+      ],
+      "watchFor": [
+        "Excessive frustration or tantrums",
+        "Lack of attachment to caregivers",
+        "Inability to self-soothe"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Explores the environment by crawling or walking",
+        "Shows interest in how things work",
+        "Investigates objects by banging, shaking, or mouthing"
+      ],
+      "activities": [
+        "Set up a safe exploration area",
+        "Provide various textures and materials to explore",
+        "Encourage outdoor play and nature exploration"
+      ],
+      "watchFor": [
+        "Limited exploration or play with new objects",
+        "Fear or avoidance of new experiences",
+        "Disinterest in surroundings"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Can focus on a task for a short period",
+        "Begins to understand simple concepts like 'in' and 'out'",
+        "Shows persistent attempts to reach a goal"
+      ],
+      "activities": [
+        "Engage in short, focused play sessions",
+        "Introduce matching and sorting games",
+        "Incorporate songs with actions"
+      ],
+      "watchFor": [
+        "Difficulty focusing on any activity",
+        "Frustration with simple tasks",
+        "Quick loss of interest in play"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Can begin self-feeding with finger foods",
+        "Shows preference for certain toys or activities",
+        "Mimics adult behaviors like brushing hair"
+      ],
+      "activities": [
+        "Encourage self-feeding with safe foods",
+        "Provide opportunities for simple choices",
+        "Include child in daily routines like getting dressed"
+      ],
+      "watchFor": [
+        "Excessive dependence on caregivers for tasks",
+        "Resistance to trying new tasks",
+        "Lack of initiative in play"
+      ]
+    }
+  ]
+}

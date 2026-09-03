@@ -1,0 +1,149 @@
+{
+  "age": 2.5,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Can solve simple puzzles",
+        "Recognizes shapes and colors",
+        "Can follow two-step instructions"
+      ],
+      "activities": [
+        "Play with shape sorters",
+        "Engage in simple board games",
+        "Do matching and sorting activities"
+      ],
+      "watchFor": [
+        "Difficulty completing simple puzzles",
+        "Struggles to follow instructions",
+        "Limited problem-solving attempts"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Uses 50-200 words",
+        "Forms simple two- to three-word sentences",
+        "Can name familiar objects"
+      ],
+      "activities": [
+        "Read aloud daily",
+        "Sing songs and rhymes",
+        "Encourage naming objects during play"
+      ],
+      "watchFor": [
+        "Limited vocabulary growth",
+        "Difficulty forming sentences",
+        "Not responding to name or basic instructions"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Runs with coordination",
+        "Climbs on furniture safely",
+        "Can stack blocks or toys"
+      ],
+      "activities": [
+        "Engage in outdoor play",
+        "Encourage drawing and coloring",
+        "Provide building toys like blocks"
+      ],
+      "watchFor": [
+        "Frequent falls or trips",
+        "Struggles with tasks requiring coordination",
+        "Limited fine motor skills development"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Begins to share with peers",
+        "Engages in parallel play",
+        "Shows interest in other children"
+      ],
+      "activities": [
+        "Arrange playdates",
+        "Encourage group play activities",
+        "Participate in cooperative games"
+      ],
+      "watchFor": [
+        "Consistent difficulty sharing",
+        "Lack of interest in other children",
+        "Aggressive behavior towards peers"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Experiences a range of emotions",
+        "Can express needs verbally",
+        "Shows signs of empathy"
+      ],
+      "activities": [
+        "Read books about feelings",
+        "Discuss emotions during daily activities",
+        "Encourage role-playing scenarios"
+      ],
+      "watchFor": [
+        "Frequent tantrums or emotional outbursts",
+        "Difficulty regulating emotions",
+        "Limited empathy or understanding of others' feelings"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Asks 'why' questions",
+        "Explores environment actively",
+        "Shows interest in how things work"
+      ],
+      "activities": [
+        "Encourage nature walks",
+        "Engage in simple science experiments",
+        "Provide varied sensory play materials"
+      ],
+      "watchFor": [
+        "Lack of exploration or curiosity",
+        "Disinterest in new activities",
+        "Limited questioning about the environment"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Can focus on a task for several minutes",
+        "Shows persistence when faced with challenges",
+        "Begins to recognize some letters and numbers"
+      ],
+      "activities": [
+        "Download educational apps",
+        "Engage in simple learning games",
+        "Provide storytelling opportunities"
+      ],
+      "watchFor": [
+        "Short attention span",
+        "Avoidance of challenging tasks",
+        "Lack of interest in educational resources"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Can help with dressing",
+        "Begins to toilet train",
+        "Can feed themselves with a spoon"
+      ],
+      "activities": [
+        "Encourage self-dressing practice",
+        "Provide opportunities to choose snacks",
+        "Involve them in simple household tasks"
+      ],
+      "watchFor": [
+        "Avoidance of self-care tasks",
+        "Dependence on adults for basic needs",
+        "Resistance to trying new independent activities"
+      ]
+    }
+  ]
+}

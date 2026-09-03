@@ -1,0 +1,149 @@
+{
+  "age": 9,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Increased ability to solve complex problems",
+        "Developing logical reasoning skills",
+        "Improved memory retention"
+      ],
+      "activities": [
+        "Puzzles and brain games",
+        "Science experiments",
+        "Math challenges"
+      ],
+      "watchFor": [
+        "Difficulty understanding concepts",
+        "Frequent forgetfulness",
+        "Struggles with problem-solving tasks"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Expanding vocabulary with more complex words",
+        "Improved reading comprehension",
+        "Ability to express thoughts clearly"
+      ],
+      "activities": [
+        "Reading together and discussing books",
+        "Writing short stories or journals",
+        "Playing word games"
+      ],
+      "watchFor": [
+        "Limited vocabulary",
+        "Challenges in following conversations",
+        "Inconsistent grammar usage"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Improved coordination and balance",
+        "More developed fine motor skills",
+        "Increased strength and stamina"
+      ],
+      "activities": [
+        "Participating in team sports",
+        "Arts and crafts projects",
+        "Outdoor games like tag or cycling"
+      ],
+      "watchFor": [
+        "Clumsiness or frequent accidents",
+        "Avoidance of physical activity",
+        "Difficulty with tasks requiring fine motor skills"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Building deeper friendships",
+        "Enhanced teamwork and cooperation skills",
+        "Understanding and showing empathy"
+      ],
+      "activities": [
+        "Group activities or team sports",
+        "Role-playing games",
+        "Community service projects"
+      ],
+      "watchFor": [
+        "Difficulty making friends",
+        "Struggles with sharing or taking turns",
+        "Lack of interest in peer interactions"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Better self-regulation of emotions",
+        "Increased self-awareness",
+        "Ability to handle setbacks"
+      ],
+      "activities": [
+        "Mindfulness exercises",
+        "Discussing feelings and coping strategies",
+        "Role-playing different emotional scenarios"
+      ],
+      "watchFor": [
+        "Frequent mood swings",
+        "Difficulty calming down after upset",
+        "Avoidance of new challenges due to fear of failure"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Asking detailed questions",
+        "Exploring new interests independently",
+        "Initiating projects or hobbies"
+      ],
+      "activities": [
+        "Visit to museums or nature centers",
+        "Science kits or educational games",
+        "Encouraging journaling about interests"
+      ],
+      "watchFor": [
+        "Disinterest in exploring new topics",
+        "Reluctance to ask questions",
+        "Limited engagement in stimulating activities"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Increased attention span during tasks",
+        "Better understanding of personal learning strategies",
+        "Ability to learn from mistakes"
+      ],
+      "activities": [
+        "Setting personal learning goals",
+        "Engaging in activities that require focus, such as building models",
+        "Participating in study groups"
+      ],
+      "watchFor": [
+        "Easily distracted or disengaged in schoolwork",
+        "Frustration when faced with challenges",
+        "Quick to give up on difficult tasks"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Taking responsibility for personal belongings",
+        "Making simple decisions independently",
+        "Improved self-care skills"
+      ],
+      "activities": [
+        "Assigning age-appropriate chores",
+        "Encouraging participation in decision-making at home",
+        "Practicing personal care routines"
+      ],
+      "watchFor": [
+        "Overdependence on parents or caregivers",
+        "Struggles with completing tasks independently",
+        "Avoidance of new responsibilities or challenges"
+      ]
+    }
+  ]
+}

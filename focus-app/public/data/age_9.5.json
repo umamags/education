@@ -1,0 +1,149 @@
+{
+  "age": 9.5,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Ability to solve more complex mathematical problems",
+        "Improved logical reasoning skills",
+        "Increased memory capacity for facts and details"
+      ],
+      "activities": [
+        "Play strategy-based board games",
+        "Engage in science experiments",
+        "Solve puzzles or brain teasers"
+      ],
+      "watchFor": [
+        "Difficulty in understanding new concepts",
+        "Frustration when faced with challenging problems",
+        "Lack of interest in problem-solving activities"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Understanding and using more complex sentences",
+        "Expanding vocabulary with abstract words",
+        "Improved reading comprehension skills"
+      ],
+      "activities": [
+        "Read books together and discuss them",
+        "Encourage writing stories or journals",
+        "Engage in conversations about various topics"
+      ],
+      "watchFor": [
+        "Struggles with spelling or grammar",
+        "Limited vocabulary usage",
+        "Avoidance of reading or writing tasks"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Enhanced coordination in sports and physical activities",
+        "Improved fine motor skills for tasks like writing",
+        "Ability to perform complex movements, such as dancing or gymnastics"
+      ],
+      "activities": [
+        "Participate in team sports",
+        "Engage in arts and crafts projects",
+        "Practice activities that involve balance and coordination"
+      ],
+      "watchFor": [
+        "Difficulty in keeping up with peers physically",
+        "Avoidance of physical activities",
+        "Frequent clumsiness or accidents"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Ability to form deeper friendships",
+        "Understanding of social cues and body language",
+        "Increased ability to negotiate and resolve conflicts"
+      ],
+      "activities": [
+        "Encourage participation in group activities",
+        "Organize playdates with peers",
+        "Teach sharing and negotiation skills"
+      ],
+      "watchFor": [
+        "Struggles to make or maintain friendships",
+        "Frequent conflicts with peers",
+        "Exhibition of social anxiety or withdrawal"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Better identification and expression of emotions",
+        "Increased ability to handle disappointment",
+        "Development of empathy towards others"
+      ],
+      "activities": [
+        "Discuss feelings and emotions openly",
+        "Role-play different scenarios that evoke emotions",
+        "Encourage journaling of feelings"
+      ],
+      "watchFor": [
+        "Inability to cope with stress or disappointment",
+        "Frequent emotional outbursts",
+        "Difficulty in recognizing other people's feelings"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Increased desire to ask questions about the world",
+        "Willingness to explore new topics or activities",
+        "Engagement in imaginative play"
+      ],
+      "activities": [
+        "Visit museums or science centers",
+        "Encourage nature exploration or field trips",
+        "Provide opportunities for creative expression"
+      ],
+      "watchFor": [
+        "Loss of interest in learning or exploring",
+        "Reluctance to ask questions",
+        "Avoidance of trying new activities"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Ability to focus for longer periods",
+        "Increased persistence in completing tasks",
+        "Use of learning strategies to solve problems"
+      ],
+      "activities": [
+        "Create a dedicated homework schedule",
+        "Set personal learning goals",
+        "Use visual aids or mnemonic devices for studying"
+      ],
+      "watchFor": [
+        "Short attention span during tasks",
+        "Frequent distraction or procrastination",
+        "Difficulty maintaining interest in subjects"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Responsibility for personal belongings",
+        "Ability to make simple decisions",
+        "Initiating self-care tasks independently"
+      ],
+      "activities": [
+        "Assign age-appropriate chores",
+        "Encourage planning of daily activities",
+        "Teach money management basics through saving or budgeting"
+      ],
+      "watchFor": [
+        "Dependence on caregivers for tasks",
+        "Resistence to taking responsibility",
+        "Inability to make choices or decisions"
+      ]
+    }
+  ]
+}

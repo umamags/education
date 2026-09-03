@@ -1,0 +1,149 @@
+{
+  "age": 8.5,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Can solve multi-step problems",
+        "Begins to understand cause and effect",
+        "Can understand basic concepts of time and money"
+      ],
+      "activities": [
+        "Play board games that require strategy",
+        "Engage in simple science experiments",
+        "Encourage puzzles and brain teasers"
+      ],
+      "watchFor": [
+        "Difficulty following logical reasoning",
+        "Struggles with understanding basic math concepts",
+        "Shows disinterest in problem-solving tasks"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Can read simple books independently",
+        "Uses more complex sentences with proper grammar",
+        "Expands vocabulary with new words regularly"
+      ],
+      "activities": [
+        "Read together and discuss stories",
+        "Encourage journaling or creative writing",
+        "Play word games like Scrabble or Boggle"
+      ],
+      "watchFor": [
+        "Difficulty expressing thoughts clearly",
+        "Limited vocabulary compared to peers",
+        "Struggles with reading comprehension"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Improves coordination in sports and physical activities",
+        "Can tie shoelaces and fasten buttons independently",
+        "Shows increased strength and endurance"
+      ],
+      "activities": [
+        "Enroll in a sports class or team",
+        "Encourage outdoor play like biking or hiking",
+        "Provide art supplies for crafts requiring fine motor skills"
+      ],
+      "watchFor": [
+        "Lacks coordination or is frequently clumsy",
+        "Avoids physical activities or sports",
+        "Difficulty with tasks requiring fine motor skills"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Can form true friendships and maintain them",
+        "Understands and respects others' feelings",
+        "Can take turns and share more easily"
+      ],
+      "activities": [
+        "Arrange playdates with peers",
+        "Engage in team sports or group activities",
+        "Volunteer together in community service"
+      ],
+      "watchFor": [
+        "Shows signs of social anxiety or isolation",
+        "Has difficulty making or keeping friends",
+        "Struggles with sharing or turn-taking"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Begins to understand and articulate feelings",
+        "Demonstrates resilience in the face of challenges",
+        "Can manage frustration with support"
+      ],
+      "activities": [
+        "Encourage discussions about feelings",
+        "Teach coping strategies for managing emotions",
+        "Practice mindfulness or relaxation techniques"
+      ],
+      "watchFor": [
+        "Frequent emotional outbursts or meltdowns",
+        "Difficulty coping with disappointment",
+        "Shows signs of low self-esteem or confidence"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Shows interest in exploring new topics",
+        "Asks thoughtful questions related to their environment",
+        "Engages in hands-on activities and experimentation"
+      ],
+      "activities": [
+        "Visit museums or science centers",
+        "Encourage nature walks and observations",
+        "Provide kits for building or crafting"
+      ],
+      "watchFor": [
+        "Lack of interest in exploring or trying new things",
+        "Avoids asking questions about their surroundings",
+        "Shows no desire to discover or learn about the world"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Can focus on tasks for extended periods",
+        "Develops effective study habits",
+        "Shows curiosity about learning new things"
+      ],
+      "activities": [
+        "Establish a quiet, dedicated study space",
+        "Encourage regular homework routines",
+        "Use educational apps or games"
+      ],
+      "watchFor": [
+        "Easily distracted or unable to sustain attention",
+        "Avoids homework or learning activities",
+        "Struggles with organization and completing tasks"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Can dress themselves and manage personal hygiene",
+        "Takes responsibility for their belongings",
+        "Begins to make simple decisions independently"
+      ],
+      "activities": [
+        "Assign age-appropriate chores",
+        "Encourage decision-making by presenting choices",
+        "Foster self-care through routines"
+      ],
+      "watchFor": [
+        "Shows reluctance to take on responsibilities",
+        "Needs constant reminders for personal tasks",
+        "Struggles to make choices or decisions"
+      ]
+    }
+  ]
+}

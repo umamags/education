@@ -1,0 +1,149 @@
+{
+  "age": 10,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Able to think logically about concrete events",
+        "Improved problem-solving abilities",
+        "Increased focus and attention span"
+      ],
+      "activities": [
+        "Puzzle games",
+        "Science experiments",
+        "Memory card games"
+      ],
+      "watchFor": [
+        "Difficulty understanding abstract concepts",
+        "Struggles with solving problems",
+        "Inconsistent attention during tasks"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Increased vocabulary",
+        "Ability to understand and use idioms",
+        "Improved narrative skills"
+      ],
+      "activities": [
+        "Reading books aloud",
+        "Storytelling activities",
+        "Word games like Scrabble or Boggle"
+      ],
+      "watchFor": [
+        "Limited vocabulary use",
+        "Difficulty following conversations",
+        "Challenges in expressing thoughts clearly"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Improved balance and coordination",
+        "Enhanced fine motor skills",
+        "Increased strength and endurance"
+      ],
+      "activities": [
+        "Team sports",
+        "Arts and crafts projects",
+        "Dance or movement classes"
+      ],
+      "watchFor": [
+        "Avoidance of physical activities",
+        "Frequent clumsiness",
+        "Difficulty with fine motor tasks like writing"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Developing stronger friendships",
+        "Understanding social norms",
+        "Increased ability to cooperate in groups"
+      ],
+      "activities": [
+        "Group games",
+        "Community service projects",
+        "Team-based activities"
+      ],
+      "watchFor": [
+        "Isolation from peers",
+        "Struggles with sharing or taking turns",
+        "Frequent conflicts with friends"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Greater self-awareness",
+        "Improved emotional regulation",
+        "Increased empathy for others"
+      ],
+      "activities": [
+        "Journaling about feelings",
+        "Role-playing different social situations",
+        "Mindfulness exercises"
+      ],
+      "watchFor": [
+        "Frequent emotional outbursts",
+        "Struggles to cope with failure",
+        "Difficulty understanding others' feelings"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Asking complex questions",
+        "Showing interest in a variety of topics",
+        "Engaging in deeper exploration"
+      ],
+      "activities": [
+        "Science fairs",
+        "Nature walks with guided observation",
+        "Visit to museums or historical sites"
+      ],
+      "watchFor": [
+        "Disinterest in learning new things",
+        "Avoidance of challenging activities",
+        "Limited questions or exploration"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Ability to apply learning strategies",
+        "Improved organizational skills",
+        "Greater persistence in tasks"
+      ],
+      "activities": [
+        "Project-based learning activities",
+        "Setting personal learning goals",
+        "Time management exercises"
+      ],
+      "watchFor": [
+        "Procrastination on schoolwork",
+        "Difficulty following multi-step directions",
+        "Lack of interest in educational activities"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Taking initiative in daily tasks",
+        "Improved decision-making skills",
+        "Increased responsibility for personal belongings"
+      ],
+      "activities": [
+        "Chores at home",
+        "Making decisions on activities or outings",
+        "Managing personal schedules"
+      ],
+      "watchFor": [
+        "Lack of initiative in completing tasks",
+        "Difficulty making choices",
+        "Reliance on parents for everyday responsibilities"
+      ]
+    }
+  ]
+}

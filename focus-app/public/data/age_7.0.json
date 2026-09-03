@@ -1,0 +1,149 @@
+{
+  "age": 7,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Able to solve simple math problems",
+        "Can understand the concept of time",
+        "Identifies cause and effect relationships"
+      ],
+      "activities": [
+        "Playing logic games like Sudoku",
+        "Doing simple science experiments",
+        "Reading age-appropriate books together"
+      ],
+      "watchFor": [
+        "Struggles with problem solving",
+        "Has difficulty following multi-step directions",
+        "Shows signs of confusion with basic concepts"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Uses complex sentences",
+        "Expands vocabulary significantly",
+        "Reads simple books independently"
+      ],
+      "activities": [
+        "Encouraging storytelling",
+        "Playing word games like Scrabble",
+        "Reading together and discussing the story"
+      ],
+      "watchFor": [
+        "Limited vocabulary",
+        "Difficulty expressing thoughts clearly",
+        "Struggles with basic grammar"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Improved balance and coordination",
+        "Can ride a bicycle",
+        "Demonstrates strength in physical activities"
+      ],
+      "activities": [
+        "Engaging in team sports",
+        "Dancing or participating in movement classes",
+        "Practicing fine motor skills through crafts"
+      ],
+      "watchFor": [
+        "Clumsiness in physical activities",
+        "Avoidance of physical play",
+        "Struggles with basic self-care tasks like dressing"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Builds friendships with peers",
+        "Shows understanding of turn-taking",
+        "Demonstrates cooperation in group settings"
+      ],
+      "activities": [
+        "Organizing playdates",
+        "Participating in team activities or clubs",
+        "Encouraging role-play games"
+      ],
+      "watchFor": [
+        "Difficulty making friends",
+        "Avoidance of group activities",
+        "Showing signs of bullying or being bullied"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Shows increased self-awareness",
+        "Can express emotions verbally",
+        "Starts to understand others' feelings"
+      ],
+      "activities": [
+        "Practicing mindfulness exercises",
+        "Talking about feelings and emotions",
+        "Reading books about emotions"
+      ],
+      "watchFor": [
+        "Frequent emotional outbursts",
+        "Struggles to calm down when upset",
+        "Difficulty recognizing others' feelings"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Eager to learn about new topics",
+        "Asks many questions about the world",
+        "Shows interest in experiments"
+      ],
+      "activities": [
+        "Exploring nature together",
+        "Visiting museums or science centers",
+        "Conducting simple home experiments"
+      ],
+      "watchFor": [
+        "Disinterest in new experiences",
+        "Limited questioning about surroundings",
+        "Avoidance of exploring new topics"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Can concentrate on tasks for longer periods",
+        "Demonstrates persistence in challenging tasks",
+        "Uses different strategies to solve problems"
+      ],
+      "activities": [
+        "Setting up a quiet study area",
+        "Encouraging goal-setting for schoolwork",
+        "Using educational apps or games"
+      ],
+      "watchFor": [
+        "Inability to focus on tasks",
+        "Quickly gives up on challenges",
+        "Resists trying new learning strategies"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Completes daily routines with minimal help",
+        "Makes simple choices independently",
+        "Takes responsibility for personal belongings"
+      ],
+      "activities": [
+        "Assigning age-appropriate chores",
+        "Encouraging decision-making in daily activities",
+        "Practicing self-care tasks together"
+      ],
+      "watchFor": [
+        "Inability to complete simple tasks alone",
+        "Reluctance to take responsibility",
+        "Inconsistent following of routines"
+      ]
+    }
+  ]
+}

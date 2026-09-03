@@ -1,0 +1,149 @@
+{
+  "age": 6,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "able to solve simple problems",
+        "understands basic concepts of time",
+        "can categorize objects by characteristics"
+      ],
+      "activities": [
+        "play logic games like puzzles",
+        "engage in storytelling and ask predictive questions",
+        "explore nature and categorize plants or animals"
+      ],
+      "watchFor": [
+        "struggles to follow multi-step instructions",
+        "difficulty with age-appropriate games",
+        "lack of interest in problem-solving activities"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "uses complete sentences",
+        "understands and uses new vocabulary",
+        "can retell a story in sequence"
+      ],
+      "activities": [
+        "read books together and discuss the story",
+        "play word games like Scrabble Junior",
+        "encourage writing simple sentences or stories"
+      ],
+      "watchFor": [
+        "limited vocabulary or difficulty expressing thoughts",
+        "trouble understanding stories or directions",
+        "reluctance to engage in conversations"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "hops, skips, and jumps with ease",
+        "can tie shoelaces",
+        "has improved hand-eye coordination"
+      ],
+      "activities": [
+        "play outdoor games like tag or hide and seek",
+        "practice art activities like cutting and drawing",
+        "encourage sports or physical activities"
+      ],
+      "watchFor": [
+        "clumsiness or frequent falls",
+        "difficulty with fine motor tasks",
+        "lack of interest in physical play"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "makes friends and engages in cooperative play",
+        "understands the concept of sharing",
+        "shows empathy towards friends"
+      ],
+      "activities": [
+        "arrange playdates with peers",
+        "participate in group activities or team sports",
+        "engage in role-play scenarios"
+      ],
+      "watchFor": [
+        "difficulty making or keeping friends",
+        "excessive shyness or aggression",
+        "struggles with taking turns or sharing"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "can express feelings verbally",
+        "begins to understand the feelings of others",
+        "manages simple frustrations"
+      ],
+      "activities": [
+        "talk about emotions and share feelings",
+        "encourage journaling or drawing feelings",
+        "role-play different emotional scenarios"
+      ],
+      "watchFor": [
+        "difficulty identifying or expressing emotions",
+        "frequent tantrums or emotional outbursts",
+        "seeming indifferent to others' feelings"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "asks numerous questions about the world",
+        "engages in explorative play",
+        "shows interest in how things work"
+      ],
+      "activities": [
+        "do science experiments together",
+        "explore nature walks and collect items",
+        "visit museums or educational places"
+      ],
+      "watchFor": [
+        "lack of questions or interest in the environment",
+        "disinterest in exploration or trying new things",
+        "answers or engagement that seem superficial"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "can focus on tasks for 10-20 minutes",
+        "begins to use varied strategies to learn",
+        "can list steps to complete a simple task"
+      ],
+      "activities": [
+        "set up learning stations with varied activities",
+        "encourage participation in games that require turn-taking",
+        "provide tasks with clear, achievable goals"
+      ],
+      "watchFor": [
+        "inability to stay focused on activities",
+        "frustration with learning tasks",
+        "tendency to give up easily"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "can dress themselves with little assistance",
+        "takes responsibility for personal items",
+        "makes simple choices independently"
+      ],
+      "activities": [
+        "encourage chores appropriate for age",
+        "let them choose between options for meals or activities",
+        "allow them to manage basic hygiene tasks"
+      ],
+      "watchFor": [
+        "frequent dependencies on adults for simple tasks",
+        "refusal to try independent activities",
+        "lack of ownership of personal belongings"
+      ]
+    }
+  ]
+}

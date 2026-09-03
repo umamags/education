@@ -1,0 +1,149 @@
+{
+  "age": 4,
+  "dimensions": [
+    {
+      "title": "Cognitive",
+      "milestones": [
+        "Can solve simple puzzles",
+        "Understands the concept of same and different",
+        "Can follow 3-part instructions"
+      ],
+      "activities": [
+        "Play with shape sorters",
+        "Engage in simple board games",
+        "Practice counting with everyday objects"
+      ],
+      "watchFor": [
+        "Difficulty with problem-solving tasks",
+        "Lack of interest in exploring new concepts",
+        "Struggles to follow instructions"
+      ]
+    },
+    {
+      "title": "Language",
+      "milestones": [
+        "Can speak in 4-5 word sentences",
+        "Can tell simple stories",
+        "Understands basic grammar rules"
+      ],
+      "activities": [
+        "Read storybooks together",
+        "Play rhyming games",
+        "Encourage storytelling with props"
+      ],
+      "watchFor": [
+        "Limited vocabulary",
+        "Difficulty expressing thoughts",
+        "Not engaging in conversations"
+      ]
+    },
+    {
+      "title": "Physical",
+      "milestones": [
+        "Can hop on one foot",
+        "Can use scissors with supervision",
+        "Can throw and catch a ball"
+      ],
+      "activities": [
+        "Play outdoor games like tag",
+        "Practice cutting shapes from paper",
+        "Engage in dancing or movement activities"
+      ],
+      "watchFor": [
+        "Clumsiness or frequent falls",
+        "Inability to manipulate small objects",
+        "Lack of interest in physical play"
+      ]
+    },
+    {
+      "title": "Social",
+      "milestones": [
+        "Can take turns while playing",
+        "Shows interest in making friends",
+        "Can express feelings verbally"
+      ],
+      "activities": [
+        "Organize playdates",
+        "Participate in group activities",
+        "Role-play different social scenarios"
+      ],
+      "watchFor": [
+        "Difficulty sharing or taking turns",
+        "Exhibiting aggressive behavior",
+        "Struggling to make friends"
+      ]
+    },
+    {
+      "title": "Emotional",
+      "milestones": [
+        "Can identify basic emotions in themselves and others",
+        "Can use words to express feelings",
+        "Shows resilience after setbacks"
+      ],
+      "activities": [
+        "Talk about feelings using a feelings chart",
+        "Play emotion-themed games",
+        "Encourage coping strategies for frustration"
+      ],
+      "watchFor": [
+        "Frequent tantrums or meltdowns",
+        "Inability to cope with changes",
+        "Difficulty calming down after being upset"
+      ]
+    },
+    {
+      "title": "Curiosity",
+      "milestones": [
+        "Asks 'why' questions frequently",
+        "Shows interest in exploring the environment",
+        "Enjoys trying new activities"
+      ],
+      "activities": [
+        "Visit a science museum",
+        "Explore nature through walks",
+        "Engage in simple science experiments"
+      ],
+      "watchFor": [
+        "Lack of interest in exploration",
+        "Avoidance of new experiences",
+        "Not asking questions"
+      ]
+    },
+    {
+      "title": "Learning",
+      "milestones": [
+        "Can focus on an activity for 10-15 minutes",
+        "Shows persistence when faced with challenges",
+        "Can follow a sequence of events in stories"
+      ],
+      "activities": [
+        "Create a daily routine chart",
+        "Work on puzzles or building sets",
+        "Encourage completion of small tasks"
+      ],
+      "watchFor": [
+        "Easily distracted by noise or movement",
+        "Gives up quickly on tasks",
+        "Has difficulty remembering instructions"
+      ]
+    },
+    {
+      "title": "Independence",
+      "milestones": [
+        "Can dress and undress with minimal help",
+        "Can help with simple household tasks",
+        "Can make choices between two options"
+      ],
+      "activities": [
+        "Encourage dressing themselves",
+        "Assign simple chores like setting the table",
+        "Offer choices in daily routines"
+      ],
+      "watchFor": [
+        "Reluctance to try new self-care tasks",
+        "Dependency on adults for basic needs",
+        "Struggles with decision-making in simple situations"
+      ]
+    }
+  ]
+}
