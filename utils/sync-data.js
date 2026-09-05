@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const sourceDir = path.join(__dirname, '../data');
-const targetDir = path.join(__dirname, '../react/public/data');
+const targetDir = path.join(__dirname, '../public/data');
 
 if (!fs.existsSync(targetDir)) {
   fs.mkdirSync(targetDir, { recursive: true });
@@ -19,4 +19,4 @@ files.forEach(file => {
   console.log(`✓ Copied ${file}`);
 });
 
-console.log(`\n✅ Synced ${files.length} data files to react/public/data`);
+console.log(`\n✅ Synced ${files.length} data files to public/data`);

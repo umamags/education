@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Child development tracking tool",
   "type": "module",
-  "main": "src/getChildDevelopment.js",
+  "main": "utils/getChildDevelopment.js",
   "scripts": {
-    "sync-data": "node src/sync-data.js",
-    "pdf2jpg": "node src/pdf2jpg.js",
+    "sync-data": "node utils/sync-data.js",
+    "pdf2jpg": "node utils/pdf2jpg.js",
     "dev": "npm run sync-data && vite",
     "build": "npm run sync-data && vite build --emptyOutDir",
     "lint": "oxlint",
