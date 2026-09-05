@@ -6,13 +6,15 @@
   "main": "src/getChildDevelopment.js",
   "scripts": {
     "sync-data": "node src/sync-data.js",
-    "dev": "npm run sync-data && cd focus-app && npm run dev",
-    "build": "npm run sync-data && cd focus-app && npm run build"
+    "pdf2jpg": "node src/pdf2jpg.js",
+    "dev": "npm run sync-data && cd react && npm run dev",
+    "build": "npm run sync-data && cd react && npm run build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "openai": "^4.28.0"
+    "openai": "^4.28.0",
+    "pdf2pic": "^2.1.0"
   }
 }
