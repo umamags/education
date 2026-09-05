@@ -29,7 +29,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: dist
-          path: ./react/dist
+          path: ./dist
 
   deploy:
     if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
@@ -53,12 +53,12 @@ jobs:
         run: |
           # Remove existing files in target directory and deploy new ones
           ssh -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} \
-            "rm -rf ${{ secrets.SSH_TARGET_DIR }}/* && mkdir -p ${{ secrets.SSH_TARGET_DIR }}"
+            "rm -rf /home/fbmerf3ynq50/public_html/education/* && mkdir -p /home/fbmerf3ynq50/public_html/education"
 
           # Copy new files using SCP
-          scp -r -P ${{ secrets.SSH_PORT }} ./dist/* ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_TARGET_DIR }}/
+          scp -r -P ${{ secrets.SSH_PORT }} ./dist/* ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/fbmerf3ynq50/public_html/education/
 
       - name: Verify deployment
         run: |
           ssh -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} \
-            "ls -la ${{ secrets.SSH_TARGET_DIR }}/ | head -20"
+            "ls -la /home/fbmerf3ynq50/public_html/education/ | head -20"
