@@ -18,8 +18,9 @@ bin-release/
 # information for Eclipse / Flash Builder.
 
 # Node and build
-react/node_modules/
-react/dist/
+node_modules/
+dist/
+.vite/
 
 # Project folders
 books/

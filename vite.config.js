@@ -5,4 +5,8 @@ import { defineConfig } from 'vite'
 export default defineConfig({
   base: '/education/',
   plugins: [react()],
+  root: 'react',
+  build: {
+    outDir: '../dist',
+  },
 })
