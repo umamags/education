@@ -129,8 +129,8 @@ export default function FocusCircle() {
           <div className="left-section">
             <div className="circle-container">
               <svg
-                width={CIRCLE_SIZE}
-                height={CIRCLE_SIZE}
+                viewBox={`0 0 ${CIRCLE_SIZE} ${CIRCLE_SIZE}`}
+                preserveAspectRatio="xMidYMid meet"
                 className={`circle-svg ${isRotating ? 'spinning' : ''}`}
                 style={{
                   transform: `rotate(${rotation}deg)`,
